@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://E:/python37/Lib/unittest/runner.py" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6795d817-f7c0-47c0-9838-79971c49c8aa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_square_TestSquare.coverage" NAME="Unittests for test_square.TestSquare Coverage Results" MODIFIED="1554190157058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_login_A_TestMessage_test_Message.coverage" NAME="Unittests for test_login_A.TestMessage.test_Message Coverage Results" MODIFIED="1554263270848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_shipping_address_P_test_ShippingAddresses.coverage" NAME="Unittests for test_shipping_address_P.test_ShippingAddresses Coverage Results" MODIFIED="1554276094229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_login_A_test_login_test_Login_token.coverage" NAME="Unittests for test_login_A.test_login.test_Login_token Coverage Results" MODIFIED="1556013663556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$testPage.coverage" NAME="testPage Coverage Results" MODIFIED="1552958133710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_security_center_py.coverage" NAME="Unittests in test_security_center.py Coverage Results" MODIFIED="1554187100970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_video_redPacket_U_test_Payments.coverage" NAME="Unittests for test_video_redPacket_U.test_Payments Coverage Results" MODIFIED="1555991935345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_my_ksb_TestMyKsb_test_MyKsb.coverage" NAME="Unittests for test_my_ksb.TestMyKsb.test_MyKsb Coverage Results" MODIFIED="1554199912994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_ksb_given_Y_test_Payments_test_payment.coverage" NAME="Unittests for test_ksb_given_Y.test_Payments.test_payment Coverage Results" MODIFIED="1556002925505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_login_TestLogin_test_Login.coverage" NAME="Unittests for test_login.TestLogin.test_Login Coverage Results" MODIFIED="1552997137250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$testApiWay.coverage" NAME="testApiWay Coverage Results" MODIFIED="1553822375426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_payment_B_TestPayment.coverage" NAME="Unittests for test_payment_B.TestPayment Coverage Results" MODIFIED="1554196829406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_ewm_C_TestEwm.coverage" NAME="Unittests for test_ewm_C.TestEwm Coverage Results" MODIFIED="1554201018278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_questionnaire_U_test_My_advertisings.coverage" NAME="Unittests for test_questionnaire_U.test_My_advertisings Coverage Results" MODIFIED="1555039791670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1554200472080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_add_password_TestAddPassword_test_TestAddPassword.coverage" NAME="Unittests for test_add_password.TestAddPassword.test_TestAddPassword Coverage Results" MODIFIED="1554202467573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1557401822974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_comment_TestPayment_test_payment.coverage" NAME="Unittests for test_comment.TestPayment.test_payment Coverage Results" MODIFIED="1554169257750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_ksb_given_Y_test_Payments.coverage" NAME="Unittests for test_ksb_given_Y.test_Payments Coverage Results" MODIFIED="1556001307979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1552997181039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_security_center_TestSecurityCenter.coverage" NAME="Unittests for test_security_center.TestSecurityCenter Coverage Results" MODIFIED="1554190135278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_KSBturnAAA_f_test_trunAAA_test_trunsAAA.coverage" NAME="Unittests for test_KSBturnAAA_f.test_trunAAA.test_trunsAAA Coverage Results" MODIFIED="1557731784624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_MentionMoney_h_test_Mention_money_test_MentionMoney.coverage" NAME="Unittests for test_MentionMoney_h.test_Mention_money.test_MentionMoney Coverage Results" MODIFIED="1557733094060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_bank_e_test_Payments.coverage" NAME="Unittests for test_delete_bank_e.test_Payments Coverage Results" MODIFIED="1556101788034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_ewm_C_py.coverage" NAME="Unittests in test_ewm_C.py Coverage Results" MODIFIED="1556095011703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_message_py.coverage" NAME="Unittests in test_message.py Coverage Results" MODIFIED="1554190083897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_redPacket_W_test_Payments.coverage" NAME="Unittests for test_delete_redPacket_W.test_Payments Coverage Results" MODIFIED="1555987751772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_add_lucky_TestAddLucky.coverage" NAME="Unittests for test_add_lucky.TestAddLucky Coverage Results" MODIFIED="1554200347529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_withdraw_deposit_T_test_withdrawDeposits_test_withdrawDeposit.coverage" NAME="Unittests for test_withdraw_deposit_T.test_withdrawDeposits.test_withdrawDeposit Coverage Results" MODIFIED="1556002875051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_test_AddLuckys_test_AddLucky.coverage" NAME="Unittests for test.test_AddLuckys.test_AddLucky Coverage Results" MODIFIED="1557400995263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_collect_TestCollect.coverage" NAME="Unittests for test_collect.TestCollect Coverage Results" MODIFIED="1554197016005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_collect_redPacket_b_test_Collects_test_collect.coverage" NAME="Unittests for test_collect_redPacket_b.test_Collects.test_collect Coverage Results" MODIFIED="1556012045178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_random_redPacket_py.coverage" NAME="Unittests in test_random_redPacket.py Coverage Results" MODIFIED="1554202401247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_collect_redPacket_b_py.coverage" NAME="Unittests in test_collect_redPacket_b.py Coverage Results" MODIFIED="1556011946984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_comment_TestComment.coverage" NAME="Unittests for test_comment.TestComment Coverage Results" MODIFIED="1554190055038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_login_A_test_login_test_LoginError.coverage" NAME="Unittests for test_login_A.test_login.test_LoginError Coverage Results" MODIFIED="1556013343125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_redpackets_X_test_Payments_test_get_redPacket_list.coverage" NAME="Unittests for test_delete_redpackets_X.test_Payments.test_get_redPacket_list Coverage Results" MODIFIED="1557402108693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_random_redPacket_M_test_Payments_test_payment.coverage" NAME="Unittests for test_random_redPacket_M.test_Payments.test_payment Coverage Results" MODIFIED="1556095320679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_bank_list_a_test_bank_test_get_bank_list.coverage" NAME="Unittests for test_bank_list_a.test_bank.test_get_bank_list Coverage Results" MODIFIED="1557402273399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_login_A_TestLogin_test_Login.coverage" NAME="Unittests for test_login_A.TestLogin.test_Login Coverage Results" MODIFIED="1554100017245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_withdraw_deposit_T_py.coverage" NAME="Unittests in test_withdraw_deposit_T.py Coverage Results" MODIFIED="1556095549841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_AAA_detail_i_py.coverage" NAME="Unittests in test_AAA_detail_i.py Coverage Results" MODIFIED="1557737643300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$logger.coverage" NAME="logger Coverage Results" MODIFIED="1552995557367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_video_redPacket_py.coverage" NAME="Unittests in test_video_redPacket.py Coverage Results" MODIFIED="1555917939800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_collect_py.coverage" NAME="Unittests in test_collect.py Coverage Results" MODIFIED="1554190047440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_bank_a_test_Payments_test_delete_bank.coverage" NAME="Unittests for test_delete_bank_a.test_Payments.test_delete_bank Coverage Results" MODIFIED="1556101309189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_redPacket_W_test_Payments_test_get_redPacket_list.coverage" NAME="Unittests for test_delete_redPacket_W.test_Payments.test_get_redPacket_list Coverage Results" MODIFIED="1557402100738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_shipping_address_TestShippingAddress_test_ShippingAddress.coverage" NAME="Unittests for test_shipping_address.TestShippingAddress.test_ShippingAddress Coverage Results" MODIFIED="1554196987652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_KSB_detail_j_py.coverage" NAME="Unittests in test_KSB_detail_j.py Coverage Results" MODIFIED="1557735693087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_add_lucky_D_py.coverage" NAME="Unittests in test_add_lucky_D.py Coverage Results" MODIFIED="1557569301704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_questionnaire_U_py.coverage" NAME="Unittests in test_questionnaire_U.py Coverage Results" MODIFIED="1555048312325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$123.coverage" NAME="123 Coverage Results" MODIFIED="1556092203694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_collect_information_c_test_Collects_test_collect.coverage" NAME="Unittests for test_collect_information_c.test_Collects.test_collect Coverage Results" MODIFIED="1556012053183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$testApiWay.coverage" NAME="testApiWay Coverage Results" MODIFIED="1554199586981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_add_password_E_test_AddPasswords_test_TestAddPassword.coverage" NAME="Unittests for test_add_password_E.test_AddPasswords.test_TestAddPassword Coverage Results" MODIFIED="1554281660092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_random_redPacket_TestPayment.coverage" NAME="Unittests for test_random_redPacket.TestPayment Coverage Results" MODIFIED="1554202329752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_payment_B_test_Payments_test_payment.coverage" NAME="Unittests for test_payment_B.test_Payments.test_payment Coverage Results" MODIFIED="1555038681699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$test.coverage" NAME="test Coverage Results" MODIFIED="1553050744867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_collect_F_test_Collects_test_collect.coverage" NAME="Unittests for test_collect_F.test_Collects.test_collect Coverage Results" MODIFIED="1556012060725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_bank_a_test_Payments.coverage" NAME="Unittests for test_delete_bank_a.test_Payments Coverage Results" MODIFIED="1556101395974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_shipping_address_P_test_ShippingAddresses_test_ShippingAddress.coverage" NAME="Unittests for test_shipping_address_P.test_ShippingAddresses.test_ShippingAddress Coverage Results" MODIFIED="1554276365853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_login_A_py.coverage" NAME="Unittests in test_login_A.py Coverage Results" MODIFIED="1556013672792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_payment_C_TestPayment_test_payment.coverage" NAME="Unittests for test_payment_C.TestPayment.test_payment Coverage Results" MODIFIED="1553854369702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_bank_card_Z_test_withdrawDeposits_test_withdrawDeposit.coverage" NAME="Unittests for test_bank_card_Z.test_withdrawDeposits.test_withdrawDeposit Coverage Results" MODIFIED="1556094040684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$readConfigFile.coverage" NAME="readConfigFile Coverage Results" MODIFIED="1552984179524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_comment_G_test_Comments.coverage" NAME="Unittests for test_comment_G.test_Comments Coverage Results" MODIFIED="1556094275103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1557400769988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$testApiUpdate.coverage" NAME="testApiUpdate Coverage Results" MODIFIED="1557731731079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_payment_B_test_Payments.coverage" NAME="Unittests for test_payment_B.test_Payments Coverage Results" MODIFIED="1554281562861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_redPacket_N_test_RedPackets_test_redPacket.coverage" NAME="Unittests for test_redPacket_N.test_RedPackets.test_redPacket Coverage Results" MODIFIED="1555663048112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_collect_TestCollect_test_collect.coverage" NAME="Unittests for test_collect.TestCollect.test_collect Coverage Results" MODIFIED="1554198288483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_login_A_test_login.coverage" NAME="Unittests for test_login_A.test_login Coverage Results" MODIFIED="1556013918576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_Ewm_C_TestPayment_test_payment.coverage" NAME="Unittests for test_Ewm_C.TestPayment.test_payment Coverage Results" MODIFIED="1554089705034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$1.coverage" NAME="1 Coverage Results" MODIFIED="1553685009192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_delete_bank_a_py.coverage" NAME="Unittests in test_delete_bank_a.py Coverage Results" MODIFIED="1556101196192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1552996346676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$ks_api_service.coverage" NAME="ks_api_service Coverage Results" MODIFIED="1553770843939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_ewm_C_test_Ewms_test_ewn.coverage" NAME="Unittests for test_ewm_C.test_Ewms.test_ewn Coverage Results" MODIFIED="1557562881845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_in_test_payment_B_py.coverage" NAME="Unittests in test_payment_B.py Coverage Results" MODIFIED="1553760660975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_login_TestLogin_test_LoginError.coverage" NAME="Unittests for test_login.TestLogin.test_LoginError Coverage Results" MODIFIED="1552995881942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_payment_B_TestPayment_test_payment.coverage" NAME="Unittests for test_payment_B.TestPayment.test_payment Coverage Results" MODIFIED="1554196872227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$login.coverage" NAME="login Coverage Results" MODIFIED="1555639391401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_video_redPacket_test_Payments_test_payment.coverage" NAME="Unittests for test_video_redPacket.test_Payments.test_payment Coverage Results" MODIFIED="1555929521606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_bank_a_test_Payments_test_get_redPacket_list.coverage" NAME="Unittests for test_delete_bank_a.test_Payments.test_get_redPacket_list Coverage Results" MODIFIED="1556101381675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_payment_B_TestPayment.coverage" NAME="Unittests for test_payment_B.TestPayment Coverage Results" MODIFIED="1553846439519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_login_A_TestLogin_test_Login.coverage" NAME="Unittests for test_login_A.TestLogin.test_Login Coverage Results" MODIFIED="1553740813469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_SearchResultPage_SearchResultPage.coverage" NAME="Unittests for test_SearchResultPage.SearchResultPage Coverage Results" MODIFIED="1552984849236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_information_I_py.coverage" NAME="Unittests in test_information_I.py Coverage Results" MODIFIED="1556095046095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_redPacket_TestRedPacket_test_redPacket.coverage" NAME="Unittests for test_redPacket.TestRedPacket.test_redPacket Coverage Results" MODIFIED="1554190129308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_my_ksb_py.coverage" NAME="Unittests in test_my_ksb.py Coverage Results" MODIFIED="1554199862765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_feedback_TestFeedback_test_Feedback.coverage" NAME="Unittests for test_feedback.TestFeedback.test_Feedback Coverage Results" MODIFIED="1554190068179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_security_center_TestSecurityCenter_test_SecurityCenter.coverage" NAME="Unittests for test_security_center.TestSecurityCenter.test_SecurityCenter Coverage Results" MODIFIED="1554198456273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_add_lucky_TestAddLucky_test_AddLucky.coverage" NAME="Unittests for test_add_lucky.TestAddLucky.test_AddLucky Coverage Results" MODIFIED="1554202292825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_Ewm_C_py.coverage" NAME="Unittests in test_Ewm_C.py Coverage Results" MODIFIED="1554104324372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_myCity_TestPayment_test_payment.coverage" NAME="Unittests for test_myCity.TestPayment.test_payment Coverage Results" MODIFIED="1554117214816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_survey_ReadPacket_V_test_Payments_test_payment.coverage" NAME="Unittests for test_survey_ReadPacket_V.test_Payments.test_payment Coverage Results" MODIFIED="1555990719178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_feedback_H_test_Feedbacks_test_Feedback.coverage" NAME="Unittests for test_feedback_H.test_Feedbacks.test_Feedback Coverage Results" MODIFIED="1557569031998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_welfare_TestWelfare_test_welfare.coverage" NAME="Unittests for test_welfare.TestWelfare.test_welfare Coverage Results" MODIFIED="1554196802131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_feedback_H_py.coverage" NAME="Unittests in test_feedback_H.py Coverage Results" MODIFIED="1557568878155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_AAA_detail_i_test_AAA_detail.coverage" NAME="Unittests for test_AAA_detail_i.test_AAA_detail Coverage Results" MODIFIED="1557737387110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_payment_B_py.coverage" NAME="Unittests in test_payment_B.py Coverage Results" MODIFIED="1555048725606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1552986934785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_information_I_test_Informations.coverage" NAME="Unittests for test_information_I.test_Informations Coverage Results" MODIFIED="1554280750315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$common.coverage" NAME="common Coverage Results" MODIFIED="1553773030899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_myCity_py.coverage" NAME="Unittests in test_myCity.py Coverage Results" MODIFIED="1554190097801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_in_test_login_A_py.coverage" NAME="Unittests in test_login_A.py Coverage Results" MODIFIED="1553506163344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_bank_e_test_Payments_test_delete_bank.coverage" NAME="Unittests for test_delete_bank_e.test_Payments.test_delete_bank Coverage Results" MODIFIED="1557402245567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_welfare_py.coverage" NAME="Unittests in test_welfare.py Coverage Results" MODIFIED="1554190164581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_video_redPacket_U_test_Payments_test_payment.coverage" NAME="Unittests for test_video_redPacket_U.test_Payments.test_payment Coverage Results" MODIFIED="1556015974801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_security_center_O_test_SecurityCenters_test_SecurityCenter.coverage" NAME="Unittests for test_security_center_O.test_SecurityCenters.test_SecurityCenter Coverage Results" MODIFIED="1556011092960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_my_advertising_S_test_My_advertisings_test_My_advertising.coverage" NAME="Unittests for test_my_advertising_S.test_My_advertisings.test_My_advertising Coverage Results" MODIFIED="1556102081947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_information_I_test_Informations_test_Information.coverage" NAME="Unittests for test_information_I.test_Informations.test_Information Coverage Results" MODIFIED="1554281401270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_delete_redPacket_W_test_Payments_test_delete_redPacket_demo.coverage" NAME="Unittests for test_delete_redPacket_W.test_Payments.test_delete_redPacket_demo Coverage Results" MODIFIED="1556101878425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_login_A_TestLogin_test_LoginError.coverage" NAME="Unittests for test_login_A.TestLogin.test_LoginError Coverage Results" MODIFIED="1554099324968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_questionnaire_U_test_My_advertisings_test_My_advertising.coverage" NAME="Unittests for test_questionnaire_U.test_My_advertisings.test_My_advertising Coverage Results" MODIFIED="1555038294731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_my_advertising_S_py.coverage" NAME="Unittests in test_my_advertising_S.py Coverage Results" MODIFIED="1556003247005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_login_A_TestLogin.coverage" NAME="Unittests for test_login_A.TestLogin Coverage Results" MODIFIED="1553777361731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_ewm_C_TestEwm_test_ewn.coverage" NAME="Unittests for test_ewm_C.TestEwm.test_ewn Coverage Results" MODIFIED="1554170703278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$readExcel.coverage" NAME="readExcel Coverage Results" MODIFIED="1553845376938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_in_test_information_py.coverage" NAME="Unittests in test_information.py Coverage Results" MODIFIED="1554190075551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_random_redPacket_TestPayment_test_payment.coverage" NAME="Unittests for test_random_redPacket.TestPayment.test_payment Coverage Results" MODIFIED="1554261956985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_AAA_detail_i_test_AAA_detail_test_AAA_detail.coverage" NAME="Unittests for test_AAA_detail_i.test_AAA_detail.test_AAA_detail Coverage Results" MODIFIED="1557734182963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/InterfaceTestFramework$Unittests_for_test_payment_B_TestPayment_test_payment.coverage" NAME="Unittests for test_payment_B.TestPayment.test_payment Coverage Results" MODIFIED="1553846534989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/Test_kuaishou$Unittests_for_test_redPacket_N_test_RedPackets.coverage" NAME="Unittests for test_redPacket_N.test_RedPackets Coverage Results" MODIFIED="1556095396946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_dia_result_b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="62" column="41" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="39" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_file_upload_N.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1235">
+              <caret line="13" column="98" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_existent_one_Y.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="38" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_training_text_get_T.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="56" column="16" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="38" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_verify_R.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_delete_W.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_dia_a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="76" column="16" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="32" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_dia_download_c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/test_get_Nonce_A.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-79">
+              <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testFile/config.wav">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>payeeUserUuid</find>
+      <find>self.data</find>
+      <find>logs</find>
+      <find>url</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Test_kuaishou</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testCase/test_video_redPacket_U.py" />
+        <option value="$PROJECT_DIR$/testCase/test_login_A.py" />
+        <option value="$PROJECT_DIR$/testCase/test_KSBturnAAA_f.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_Nonce.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_token.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_group.py" />
+        <option value="$PROJECT_DIR$/testCase/test_token_refiush.py" />
+        <option value="$PROJECT_DIR$/testCase/test_token_remove.py" />
+        <option value="$PROJECT_DIR$/testCase/test_group_clientcount.py" />
+        <option value="$PROJECT_DIR$/testCase/test_threshold_get.py" />
+        <option value="$PROJECT_DIR$/testCase/test__delete_one_X.py" />
+        <option value="$PROJECT_DIR$/testCase/test__voiceprint_existent_one_Y.py" />
+        <option value="$PROJECT_DIR$/testCase/test__voiceprint_dia_a.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_text.py" />
+        <option value="$PROJECT_DIR$/framework/readExcel.py" />
+        <option value="$PROJECT_DIR$/framework/testMySQLdb.py" />
+        <option value="$PROJECT_DIR$/framework/testPage.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_Nonce_A.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_token_B.py" />
+        <option value="$PROJECT_DIR$/testCase/test_token_refresh_C.py" />
+        <option value="$PROJECT_DIR$/testCase/test_token_remove_D.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_group_E.py" />
+        <option value="$PROJECT_DIR$/testCase/test_get_group_count_F.py" />
+        <option value="$PROJECT_DIR$/testCase/test_group_create_G.py" />
+        <option value="$PROJECT_DIR$/testCase/test_client_update_L.py" />
+        <option value="$PROJECT_DIR$/testCase/test_client_delete_M.py" />
+        <option value="$PROJECT_DIR$/testCase/test_dia_task_e.py" />
+        <option value="$PROJECT_DIR$/testCase/test_group_delete_f.py" />
+        <option value="$PROJECT_DIR$/testCase/test_delete_one_X.py" />
+        <option value="$PROJECT_DIR$/testCase/test_voiceprint_existent_one_Y.py" />
+        <option value="$PROJECT_DIR$/testCase/test_existent_S.py" />
+        <option value="$PROJECT_DIR$/testCase/test_threshold_get_U.py" />
+        <option value="$PROJECT_DIR$/testCase/test_training_text_get_T.py" />
+        <option value="$PROJECT_DIR$/testCase/test_threshold_set_V.py" />
+        <option value="$PROJECT_DIR$/framework/logger.py" />
+        <option value="$PROJECT_DIR$/testCase/test_group_update_H.py" />
+        <option value="$PROJECT_DIR$/testCase/test_client_get_I.py" />
+        <option value="$PROJECT_DIR$/testCase/test_group_clientcount_J.py" />
+        <option value="$PROJECT_DIR$/testCase/test_create_user_K.py" />
+        <option value="$PROJECT_DIR$/testConfig/config.ini" />
+        <option value="$PROJECT_DIR$/framework/testApiUpdate.py" />
+        <option value="$PROJECT_DIR$/testCase/test_analyze_P.py" />
+        <option value="$PROJECT_DIR$/testCase/test_app_asr_file_d.py" />
+        <option value="$PROJECT_DIR$/testCase/test_asvcheck_O.py" />
+        <option value="$PROJECT_DIR$/testCase/test_register_Q.py" />
+        <option value="$PROJECT_DIR$/testCase/test_verify_R.py" />
+        <option value="$PROJECT_DIR$/testCase/test_voiceprint_delete_W.py" />
+        <option value="$PROJECT_DIR$/testCase/test_voiceprint_dia_a.py" />
+        <option value="$PROJECT_DIR$/testCase/test_file_upload_N.py" />
+        <option value="$PROJECT_DIR$/testCase/test_voiceprint_dia_result_b.py" />
+        <option value="$PROJECT_DIR$/testCase/test_voiceprint_dia_download_c.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1592" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shengyang_requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shengyang_requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shengyang_requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shengyang_requests" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shengyang_requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shengyang_requests" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shengyang_requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shengyang_requests" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shengyang_requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shengyang_requests" type="462c0819:PsiDirectoryNode" />
+              <item name="testConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shengyang_requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shengyang_requests" type="462c0819:PsiDirectoryNode" />
+              <item name="testFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shengyang_requests - 副本" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Test_kuaishou\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download">
+    <configuration name="Unittests for test_file_upload_N.Test_file_upload.test_file_upload_dia" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTestFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_file_upload_N.Test_file_upload.test_file_upload_dia&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTestFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTestFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_voiceprint_dia_download_c.Test_voiceprints_dia_download&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTestFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTestFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_file_upload_N.Test_file_upload.test_file_upload_dia" />
+      <item itemvalue="Python tests.Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" />
+      <item itemvalue="Python tests.Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" />
+      <item itemvalue="Python tests.Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download" />
+      <item itemvalue="Python tests.Unittests for test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" />
+        <item itemvalue="Python tests.Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" />
+        <item itemvalue="Python tests.Unittests for test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia" />
+        <item itemvalue="Python tests.Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download" />
+        <item itemvalue="Python tests.Unittests for test_file_upload_N.Test_file_upload.test_file_upload_dia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6795d817-f7c0-47c0-9838-79971c49c8aa" name="Default Changelist" comment="" />
+      <created>1503379135471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503379135471</updated>
+      <workItem from="1552899478674" duration="7088000" />
+      <workItem from="1552975654338" duration="2438000" />
+      <workItem from="1552982184576" duration="2428000" />
+      <workItem from="1552985405452" duration="5614000" />
+      <workItem from="1552995979446" duration="5437000" />
+      <workItem from="1553060712441" duration="10840000" />
+      <workItem from="1553139798412" duration="2236000" />
+      <workItem from="1553216777657" duration="1141000" />
+      <workItem from="1553476820310" duration="35428000" />
+      <workItem from="1553767533851" duration="25225000" />
+      <workItem from="1553847093293" duration="58473000" />
+      <workItem from="1554259958423" duration="3494000" />
+      <workItem from="1554272895420" duration="15415000" />
+      <workItem from="1554989605985" duration="6140000" />
+      <workItem from="1555328889392" duration="36000" />
+      <workItem from="1555393599688" duration="1438000" />
+      <workItem from="1555415516750" duration="719000" />
+      <workItem from="1555479639430" duration="797000" />
+      <workItem from="1555492503144" duration="154000" />
+      <workItem from="1555569882674" duration="45712000" />
+      <workItem from="1556073729691" duration="2444000" />
+      <workItem from="1556091108243" duration="356000" />
+      <workItem from="1556091491955" duration="157000" />
+      <workItem from="1556091673122" duration="7283000" />
+      <workItem from="1557278954588" duration="14894000" />
+      <workItem from="1561968485976" duration="2178000" />
+      <workItem from="1562029770545" duration="852000" />
+      <workItem from="1562288370517" duration="3143000" />
+      <workItem from="1562291615607" duration="3009000" />
+      <workItem from="1562294652175" duration="16807000" />
+      <workItem from="1562546898580" duration="4950000" />
+      <workItem from="1562573075824" duration="21729000" />
+      <workItem from="1562639040416" duration="4330000" />
+      <workItem from="1562643639462" duration="63354000" />
+      <workItem from="1562911404604" duration="66000" />
+      <workItem from="1563161060063" duration="4045000" />
+      <workItem from="1563172075348" duration="48000" />
+      <workItem from="1563183504306" duration="4348000" />
+      <workItem from="1563241988144" duration="8866000" />
+      <workItem from="1563270753170" duration="921000" />
+      <workItem from="1563333332923" duration="28188000" />
+      <workItem from="1563437631765" duration="2786000" />
+      <workItem from="1563502582398" duration="197000" />
+      <workItem from="1563507717523" duration="353000" />
+      <workItem from="1563508588622" duration="3981000" />
+      <workItem from="1563522047444" duration="2629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_voiceprint_dia_a_Test_voiceprints_dia_test_voiceprint_dia - 2019.07.19 at 16h 01m 33s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_a_Test_voiceprints_dia_test_voiceprint_dia - 2019.07.19 at 16h 02m 03s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_result_b_Test_voiceprints_dia_result_test_voiceprint_dia_result - 2019.07.19 at 16h 02m 30s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_download_c_Test_voiceprints_dia_download_test_voiceprint_dia_download - 2019.07.19 at 16h 03m 48s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_result_b_Test_voiceprints_dia_result_test_voiceprint_dia_result - 2019.07.19 at 16h 07m 26s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_result_b_Test_voiceprints_dia_result_test_voiceprint_dia_result - 2019.07.19 at 16h 08m 46s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_result_b_Test_voiceprints_dia_result_test_voiceprint_dia_result - 2019.07.19 at 16h 09m 12s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_download_c_Test_voiceprints_dia_download_test_voiceprint_dia_download - 2019.07.19 at 16h 10m 34s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_download_c_Test_voiceprints_dia_download_test_voiceprint_dia_download - 2019.07.19 at 16h 11m 19s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_voiceprint_dia_download_c_Test_voiceprints_dia_download_test_voiceprint_dia_download - 2019.07.19 at 16h 13m 15s.xml">
+      <configuration name="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="432167000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12440381" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32831326" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49920508" weight="0.32424006" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990647" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007949" side_tool="true" weight="0.32424006" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32969603" />
+      <window_info anchor="bottom" id="Structure" order="13" weight="0.24941543" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37878788" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python37/Lib/unittest/case.py</url>
+          <line>613</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_create_user_K_Test_client_Create_test_client_create.coverage" NAME="Unittests for test_create_user_K.Test_client_Create.test_client_create Coverage Results" MODIFIED="1563363169382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_dia_result_b_Test_voiceprints_dia_result_test_voiceprint_dia_result.coverage" NAME="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result.test_voiceprint_dia_result Coverage Results" MODIFIED="1563523736856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test__voiceprint_dia_a_Test_voiceprints_dia.coverage" NAME="Unittests for test__voiceprint_dia_a.Test_voiceprints_dia Coverage Results" MODIFIED="1562633208783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_text_Test_get_text.coverage" NAME="Unittests for test_get_text.Test_get_text Coverage Results" MODIFIED="1562645806641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_dia_download_c_Test_voiceprints_dia_download.coverage" NAME="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download Coverage Results" MODIFIED="1563523119163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_client_update_L_Test_client_Update_test_client_updates.coverage" NAME="Unittests for test_client_update_L.Test_client_Update.test_client_updates Coverage Results" MODIFIED="1563363192051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_analyze_P_Test_age_analyze_test_age_analyzes.coverage" NAME="Unittests for test_analyze_P.Test_age_analyze.test_age_analyzes Coverage Results" MODIFIED="1563413369767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_update_H_Test_update_Group.coverage" NAME="Unittests for test_group_update_H.Test_update_Group Coverage Results" MODIFIED="1563337311055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_threshold_get_U_Test_threshold_get_test_thresholds_get.coverage" NAME="Unittests for test_threshold_get_U.Test_threshold_get.test_thresholds_get Coverage Results" MODIFIED="1563358161152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_text_Test_get_text_test_get_text.coverage" NAME="Unittests for test_get_text.Test_get_text.test_get_text Coverage Results" MODIFIED="1562291392974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_create_G_Test_get_Group_test_get_groeps.coverage" NAME="Unittests for test_group_create_G.Test_get_Group.test_get_groeps Coverage Results" MODIFIED="1562306451856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_token_B_Test_get_Token.coverage" NAME="Unittests for test_get_token_B.Test_get_Token Coverage Results" MODIFIED="1562295774793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_Nonce_Test_get_Nonce_test_get_nonces.coverage" NAME="Unittests for test_get_Nonce.Test_get_Nonce.test_get_nonces Coverage Results" MODIFIED="1562293158130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_update_H_Test_uodate_Group_test_updates_groups.coverage" NAME="Unittests for test_group_update_H.Test_uodate_Group.test_updates_groups Coverage Results" MODIFIED="1562645659135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_asvcheck_O_Test_file_asvcheck.coverage" NAME="Unittests for test_asvcheck_O.Test_file_asvcheck Coverage Results" MODIFIED="1563363358016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_in_test_get_text_py.coverage" NAME="Unittests in test_get_text.py Coverage Results" MODIFIED="1562294995738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$testPage.coverage" NAME="testPage Coverage Results" MODIFIED="1563349151354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/framework" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_dia_a_Test_voiceprints_dia_test_voiceprint_dia.coverage" NAME="Unittests for test_voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia Coverage Results" MODIFIED="1563523319169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_create_G_Test_get_Group_test_get_groups.coverage" NAME="Unittests for test_group_create_G.Test_get_Group.test_get_groups Coverage Results" MODIFIED="1562739521004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test__voiceprint_dia_a_Test_voiceprints_dia_test_voiceprint_dia.coverage" NAME="Unittests for test__voiceprint_dia_a.Test_voiceprints_dia.test_voiceprint_dia Coverage Results" MODIFIED="1562634282413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_token_refresh_C_Test_token_Refresh.coverage" NAME="Unittests for test_token_refresh_C.Test_token_Refresh Coverage Results" MODIFIED="1562642639316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_token_remove_D_Test_token_Remove_test_token_Remove.coverage" NAME="Unittests for test_token_remove_D.Test_token_Remove.test_token_Remove Coverage Results" MODIFIED="1563362831179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test__voiceprint_existent_one_Y_Test_existents_one_test_existent_one.coverage" NAME="Unittests for test__voiceprint_existent_one_Y.Test_existents_one.test_existent_one Coverage Results" MODIFIED="1562590378023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_verify_R_Test_verify_test_verifys.coverage" NAME="Unittests for test_verify_R.Test_verify.test_verifys Coverage Results" MODIFIED="1562829027208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_update_H_Test_update_Group_test_updates_groups.coverage" NAME="Unittests for test_group_update_H.Test_update_Group.test_updates_groups Coverage Results" MODIFIED="1563362872892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_token_refresh_C_Test_token_Refresh_test_token_Refreshs.coverage" NAME="Unittests for test_token_refresh_C.Test_token_Refresh.test_token_Refreshs Coverage Results" MODIFIED="1563362823696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_delete_W_Test_delete_test_deletes.coverage" NAME="Unittests for test_voiceprint_delete_W.Test_delete.test_deletes Coverage Results" MODIFIED="1562589777135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_dia_download_c_Test_voiceprints_dia_download_test_voiceprint_dia_download.coverage" NAME="Unittests for test_voiceprint_dia_download_c.Test_voiceprints_dia_download.test_voiceprint_dia_download Coverage Results" MODIFIED="1563523923366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_app_asr_file_d_Test_asr_file_test_asr_file.coverage" NAME="Unittests for test_app_asr_file_d.Test_asr_file.test_asr_file Coverage Results" MODIFIED="1563439087041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_verify_R_Test_verify.coverage" NAME="Unittests for test_verify_R.Test_verify Coverage Results" MODIFIED="1562828898206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_group_count_F_Test_get_Group_conut_test_get_groeps_count.coverage" NAME="Unittests for test_get_group_count_F.Test_get_Group_conut.test_get_groeps_count Coverage Results" MODIFIED="1563362857350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_training_text_get_T_Test_get_text_test_get_texts.coverage" NAME="Unittests for test_training_text_get_T.Test_get_text.test_get_texts Coverage Results" MODIFIED="1563358456008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_in_test_voiceprint_dia_result_b_py.coverage" NAME="Unittests in test_voiceprint_dia_result_b.py Coverage Results" MODIFIED="1562639431885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_in_test_group_delete_f_py.coverage" NAME="Unittests in test_group_delete_f.py Coverage Results" MODIFIED="1563344574175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_register_Q_Test_register.coverage" NAME="Unittests for test_register_Q.Test_register Coverage Results" MODIFIED="1562633377765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_in_test_file_upload_N_py.coverage" NAME="Unittests in test_file_upload_N.py Coverage Results" MODIFIED="1562755159516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_token_B_Test_get_Token_test_get_tokens.coverage" NAME="Unittests for test_get_token_B.Test_get_Token.test_get_tokens Coverage Results" MODIFIED="1563335831153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_update_H_Test_uodate_Group_test_updates_groeps.coverage" NAME="Unittests for test_group_update_H.Test_uodate_Group.test_updates_groeps Coverage Results" MODIFIED="1562308164213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_Nonce_A_Test_get_Nonce_test_get_nonces.coverage" NAME="Unittests for test_get_Nonce_A.Test_get_Nonce.test_get_nonces Coverage Results" MODIFIED="1563362815314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_delete_one_X_Test_delete_one_test_deletes_one.coverage" NAME="Unittests for test_delete_one_X.Test_delete_one.test_deletes_one Coverage Results" MODIFIED="1563355145427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_existent_S_Test_existents_test_existent.coverage" NAME="Unittests for test_existent_S.Test_existents.test_existent Coverage Results" MODIFIED="1563357480871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_update_H_Test_uodate_Group.coverage" NAME="Unittests for test_group_update_H.Test_uodate_Group Coverage Results" MODIFIED="1562308303703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_delete_f_Test_delete_Group.coverage" NAME="Unittests for test_group_delete_f.Test_delete_Group Coverage Results" MODIFIED="1563345327315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_client_delete_M_Test_client_Delete_test_client_delete.coverage" NAME="Unittests for test_client_delete_M.Test_client_Delete.test_client_delete Coverage Results" MODIFIED="1563363216572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_dia_result_b_Test_voiceprints_dia_result.coverage" NAME="Unittests for test_voiceprint_dia_result_b.Test_voiceprints_dia_result Coverage Results" MODIFIED="1562639412003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_register_Q_Test_register_test_verifys.coverage" NAME="Unittests for test_register_Q.Test_register.test_verifys Coverage Results" MODIFIED="1562588018596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_existent_S_Test_existents.coverage" NAME="Unittests for test_existent_S.Test_existents Coverage Results" MODIFIED="1562585466414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_group_E_Test_get_Group_test_get_groeps.coverage" NAME="Unittests for test_get_group_E.Test_get_Group.test_get_groeps Coverage Results" MODIFIED="1563362842757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_threshold_set_V_Test_threshold_set_test_thresholds_set.coverage" NAME="Unittests for test_threshold_set_V.Test_threshold_set.test_thresholds_set Coverage Results" MODIFIED="1563358835896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_text_Test_get_text_test_get_texts.coverage" NAME="Unittests for test_get_text.Test_get_text.test_get_texts Coverage Results" MODIFIED="1562652068862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_register_Q_Test_register_test_registers.coverage" NAME="Unittests for test_register_Q.Test_register.test_registers Coverage Results" MODIFIED="1563364568844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_Nonce_A_Test_get_Nonce.coverage" NAME="Unittests for test_get_Nonce_A.Test_get_Nonce Coverage Results" MODIFIED="1562834202134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_file_upload_N_Test_file_upload_test_file_upload.coverage" NAME="Unittests for test_file_upload_N.Test_file_upload.test_file_upload Coverage Results" MODIFIED="1562661248709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_client_update_L_Test_client_Update.coverage" NAME="Unittests for test_client_update_L.Test_client_Update Coverage Results" MODIFIED="1563349159894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_client_get_I_Test_client_Get_test_client_gets.coverage" NAME="Unittests for test_client_get_I.Test_client_Get.test_client_gets Coverage Results" MODIFIED="1563362921311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_group_Test_get_Group.coverage" NAME="Unittests for test_get_group.Test_get_Group Coverage Results" MODIFIED="1562294774990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_group_Test_get_Group_test_get_groups.coverage" NAME="Unittests for test_get_group.Test_get_Group.test_get_groups Coverage Results" MODIFIED="1562294524190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_file_upload_N_Test_file_upload_test_file_upload_dia.coverage" NAME="Unittests for test_file_upload_N.Test_file_upload.test_file_upload_dia Coverage Results" MODIFIED="1563509571164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_in_test_voiceprint_dia_a_py.coverage" NAME="Unittests in test_voiceprint_dia_a.py Coverage Results" MODIFIED="1562646167296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_file_upload_N_Test_file_upload.coverage" NAME="Unittests for test_file_upload_N.Test_file_upload Coverage Results" MODIFIED="1562582057935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_asvcheck_O_Test_file_asvcheck_test_file_asvchecks.coverage" NAME="Unittests for test_asvcheck_O.Test_file_asvcheck.test_file_asvchecks Coverage Results" MODIFIED="1563365246221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_in_test_get_Nonce_A_py.coverage" NAME="Unittests in test_get_Nonce_A.py Coverage Results" MODIFIED="1562827818050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_group_count_F_Test_get_Group_test_get_groeps.coverage" NAME="Unittests for test_get_group_count_F.Test_get_Group.test_get_groeps Coverage Results" MODIFIED="1562299794934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_create_G_Test_Group_create_test_groups_create.coverage" NAME="Unittests for test_group_create_G.Test_Group_create.test_groups_create Coverage Results" MODIFIED="1563362866178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_get_group_E_Test_get_Group.coverage" NAME="Unittests for test_get_group_E.Test_get_Group Coverage Results" MODIFIED="1562299423543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_voiceprint_existent_one_Y_Test_existents_one_test_existent_one.coverage" NAME="Unittests for test_voiceprint_existent_one_Y.Test_existents_one.test_existent_one Coverage Results" MODIFIED="1563356733118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_delete_f_Test_delete_Group_test_delete_groups.coverage" NAME="Unittests for test_group_delete_f.Test_delete_Group.test_delete_groups Coverage Results" MODIFIED="1563345777134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test_group_clientcount_J_Test_client_count_test_client_counts.coverage" NAME="Unittests for test_group_clientcount_J.Test_client_count.test_client_counts Coverage Results" MODIFIED="1563363138535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/shengyang_requests$Unittests_for_test__delete_one_X_Test_delete_test_deletes.coverage" NAME="Unittests for test__delete_one_X.Test_delete.test_deletes Coverage Results" MODIFIED="1562589996121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testCase/test_get_group.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="325" column="11" selection-start-line="325" selection-start-column="11" selection-end-line="325" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python37/Lib/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python37/Lib/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python37/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/testApiWay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_get_text.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="613" selection-start-line="613" selection-end-line="613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/SendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="e#16#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/readConfigFile.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/testMySQLdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/testPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/readExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="e#19#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_token_remove_D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_group_update_H.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="55" column="16" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_group_delete_f.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="42" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testConfig/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/testApiUpdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#22#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_analyze_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="32" selection-start-line="32" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_app_asr_file_d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_asvcheck_O.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_client_delete_M.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="49" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_client_get_I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_client_update_L.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="48" column="49" lean-forward="true" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_create_user_K.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1203">
+          <caret line="61" column="61" selection-start-line="61" selection-start-column="61" selection-end-line="61" selection-end-column="61" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_delete_one_X.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_dia_task_e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="64" column="49" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="49" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_existent_S.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_get_group_count_F.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_get_group_E.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="51" column="39" lean-forward="true" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_get_token_B.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="74" column="25" lean-forward="true" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_group_clientcount_J.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="55" column="12" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="42" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_group_create_G.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="41" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_threshold_get_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_threshold_set_V.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_register_Q.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_token_refresh_C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_training_text_get_T.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_verify_R.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_delete_W.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_existent_one_Y.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_dia_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="32" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_file_upload_N.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235">
+          <caret line="13" column="98" selection-start-line="13" selection-start-column="98" selection-end-line="13" selection-end-column="98" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/config.wav">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_dia_download_c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="39" column="53" lean-forward="true" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_get_Nonce_A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/test_voiceprint_dia_result_b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
